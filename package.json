@@ -1,0 +1,31 @@
+{
+  "name": "react-vaccine",
+  "version": "0.0.1",
+  "description": "Config-free React and Redux testkit",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robtaussig/react-vaccine.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "test",
+    "testing",
+    "testkit"
+  ],
+  "author": "Robert Taussig <robert.taussig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robtaussig/react-vaccine/issues"
+  },
+  "homepage": "https://github.com/robtaussig/react-vaccine#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
